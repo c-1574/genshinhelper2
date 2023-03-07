@@ -7,7 +7,7 @@ A Python library for miHoYo bbs and HoYoLAB Community.
 Via pip:
 
 ```
-pip install genshinhelper
+pip install
 ```
 
 Or via source code:
